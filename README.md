@@ -1,0 +1,3 @@
+# Expo CLI Metro Bundler Errors
+
+This repository demonstrates a common issue encountered when using the Expo CLI, where the Metro bundler fails to start or encounters errors during the build process.  The problem is often rooted in module resolution problems, incorrect JavaScript syntax, or compatibility issues with Node.js versions and environment variables. The `bug.js` file shows a problematic setup, while `bugSolution.js` illustrates the fix.
